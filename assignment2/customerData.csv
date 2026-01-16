@@ -1,0 +1,11 @@
+CustomerID,surname,Geography,Gender,Age,Balance,Tenure,NumOfProducts,HasCrcard,isactiveMember,EstimatedSalary
+15634602,Hargrave,France,Female,42,8000,2,1,1,1,101348.88
+15647311,hill,Spain,Male,41,12000,1,1,0,1,112542.58
+15619304,Onio,France,Female,42,9500,8,2,1,0,113931.57
+15701354,Bonl,France,Male,39,10000,1,2,1,1,93826.63
+15737888,Mitchell,Spain,Female,43,8700,2,1,0,0,79084.1
+15574012,Chu,France,Male,44,6500,8,1,1,1,149756.88
+15592531,Bartiett,Germany,Female,50,9800,7,2,1,0,10062.8
+15656148,Obinna,Germany,Male,29,7200,4,2,0,1,119346.88
+15792365,He,France,Female,44,8800,6,1,1,1,74940.5
+15592389,??,Spain,Female,27,,3,1,1,0,71725.73
